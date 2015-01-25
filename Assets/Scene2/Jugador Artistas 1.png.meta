@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 941f3b6665725e44fb82248599904995
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cabessssa
+    21300002: Pierna Iz
+    21300004: Brazo der
+    21300006: Pierna der
+    21300008: Torso
+    21300010: Brazo Izq
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cabessssa
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 483
+        width: 120
+        height: 129
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna Iz
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 356
+        width: 72
+        height: 107
+      alignment: 9
+      pivot: {x: .396036357, y: .784873307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo der
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 258
+        width: 118
+        height: 67
+      alignment: 9
+      pivot: {x: .178223163, y: .579801202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna der
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 359
+        width: 75
+        height: 104
+      alignment: 9
+      pivot: {x: .400194913, y: .841374874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Torso
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 349
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo Izq
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 175
+        width: 98
+        height: 58
+      alignment: 9
+      pivot: {x: .130939096, y: .297193319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

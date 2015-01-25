@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: e10ad787281c84e4b9e8e568672633bd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: Jugador Artistas_1
+    21300004: Jugador Artistas_2
+    21300006: Leg L
+    21300008: Arm L
+    21300010: Leg R
+    21300012: Body
+    21300014: Jugador Artistas_7
+    21300016: Jugador Artistas_8
+    21300018: Jugador Artistas_9
+    21300020: Jugador Artistas_10
+    21300022: Jugador Artistas_11
+    21300024: Jugador Artistas_12
+    21300026: Jugador Artistas_13
+    21300028: Arm R
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 474
+        width: 117
+        height: 125
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jugador Artistas_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 472
+        width: 135
+        height: 121
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leg L
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 356
+        width: 72
+        height: 98
+      alignment: 9
+      pivot: {x: .391377777, y: .902462065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arm L
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 258
+        width: 116
+        height: 67
+      alignment: 9
+      pivot: {x: .132932991, y: .590788424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leg R
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 356
+        width: 73
+        height: 98
+      alignment: 9
+      pivot: {x: .380962223, y: .896898568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 345
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jugador Artistas_7
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 348
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jugador Artistas_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 322
+        width: 67
+        height: 132
+      alignment: 9
+      pivot: {x: .318422228, y: .85548979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jugador Artistas_10
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 212
+        width: 77
+        height: 98
+      alignment: 9
+      pivot: {x: .387146801, y: .899019182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jugador Artistas_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 212
+        width: 78
+        height: 98
+      alignment: 9
+      pivot: {x: .332888871, y: .907886446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jugador Artistas_13
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 169
+        width: 61
+        height: 136
+      alignment: 9
+      pivot: {x: .25782752, y: .90892905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arm R
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 175
+        width: 98
+        height: 58
+      alignment: 9
+      pivot: {x: .16305013, y: .290247411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

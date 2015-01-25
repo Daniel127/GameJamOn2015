@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: bdf7672df828aa64aa287dbb953691dd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head1
+    21300002: Mouse1
+    21300004: Jugador_5
+    21300006: Coffe2(Salto)
+    21300008: Body
+    21300010: Coffe1
+    21300012: Legs1
+    21300014: Legs2(Salto)
+    21300016: Mouse2(Salto)
+    21300018: Coffe3(Bug)
+    21300020: "Head2(Da\xF1o)"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 549
+        width: 138
+        height: 116
+      alignment: 9
+      pivot: {x: .506296813, y: .132932991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mouse1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 434
+        width: 94
+        height: 130
+      alignment: 9
+      pivot: {x: .463022113, y: .760692418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jugador_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 484
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coffe2(Salto)
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 435
+        width: 87
+        height: 79
+      alignment: 9
+      pivot: {x: .180377126, y: .5549981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 366
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coffe1
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 350
+        width: 82
+        height: 77
+      alignment: 9
+      pivot: {x: .182081267, y: .545141459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Legs1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 165
+        width: 109
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Legs2(Salto)
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 122
+        width: 116
+        height: 145
+      alignment: 9
+      pivot: {x: .312720478, y: .865568697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mouse2(Salto)
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 303
+        width: 114
+        height: 118
+      alignment: 9
+      pivot: {x: .431396484, y: .735654175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coffe3(Bug)
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 254
+        width: 137
+        height: 82
+      alignment: 9
+      pivot: {x: .144798115, y: .722541988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Head2(Da\xF1o)"
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 547
+        width: 152
+        height: 136
+      alignment: 9
+      pivot: {x: .551452458, y: .12940754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
